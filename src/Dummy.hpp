@@ -1,5 +1,5 @@
-#ifndef _DUMMYPROJECT_DUMMY_HPP_
-#define _DUMMYPROJECT_DUMMY_HPP_
+#ifndef _ROCK_LIBRARY_DEPS_PKGCONFIG_DUMMY_HPP_
+#define _ROCK_LIBRARY_DEPS_PKGCONFIG_DUMMY_HPP_
 
 namespace rock_library_deps_pkgconfig
 {
@@ -15,4 +15,4 @@ namespace rock_library_deps_pkgconfig
 
 } // end namespace rock_library_deps_pkgconfig
 
-#endif // _DUMMYPROJECT_DUMMY_HPP_
+#endif // _ROCK_LIBRARY_DEPS_PKGCONFIG_DUMMY_HPP_
